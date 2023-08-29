@@ -1,0 +1,25 @@
+.section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:9rem;
+  font-size:22px;
+  height: 23rem;
+  font-family:cursive;
+  color:rgb(27, 27, 27);
+  text-align: center;
+  border-radius:15px;
+  background-color:rgb(255, 255, 255)
+}
+
+button{
+  padding: 9px 15px 9px 15px;
+  border: 1px solid rgb(64, 133, 64);
+  margin: 5px;
+  border-radius: 4px;
+  background-color: rgb(64, 133, 64);
+  color: rgb(253, 252, 249);
+  }
+  body{
+    background-color: rgb(170, 215, 255);
+  }
